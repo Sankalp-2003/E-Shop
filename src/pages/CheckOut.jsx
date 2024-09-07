@@ -64,7 +64,7 @@ function CheckOut({ setOrder }) {
                 />
               </div>
               <div>
-                <label className="block text-gray-700">Name</label>
+                <label className="block text-gray-700">Phone</label>
                 <input
                   type="number"
                   name="phone"
